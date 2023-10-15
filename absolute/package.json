@@ -1,0 +1,27 @@
+{
+  "name": "absolute",
+  "description": "Basically Math.abs() function in JavaScript.",
+  "author": "westtle",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/westtle/code-dump.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "absolute",
+    "absolute value"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/westtle/code-dump/issues"
+  }
+}
