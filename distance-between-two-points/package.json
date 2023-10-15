@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/westtle/code-dump"
+    "url": "git+https://github.com/westtle/code-dump"
   },
   "keywords": [
     "javascript",
@@ -22,5 +22,8 @@
   "dependencies": {
     "chalk": "^4.1.2",
     "prompt-sync": "^4.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/westtle/code-dump/issues"
   }
 }
