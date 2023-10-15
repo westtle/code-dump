@@ -1,0 +1,26 @@
+{
+  "name": "distance-between-two-points",
+  "description": "Calculate the distance between two points in the Cartesian plane.",
+  "author": "westtle",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/westtle/code-dump"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "cartesian",
+    "cartesian plane",
+    "distance between two points"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
