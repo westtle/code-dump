@@ -1,0 +1,26 @@
+{
+  "name": "anagram",
+  "description": "Check if two word (or sentence) is an anagram.",
+  "author": "westtle",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/westtle/code-dump.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "anagram"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/westtle/code-dump/issues"
+  }
+}
