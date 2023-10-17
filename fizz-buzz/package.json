@@ -1,0 +1,28 @@
+{
+  "name": "fizz-buzz",
+  "description": "1, 2, FIZZ!!, 4, BUZZ!!, ...",
+  "author": "westtle",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/westtle/code-dump.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "fizz buzz",
+    "fizz",
+    "buzz"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/westtle/code-dump/issues"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
